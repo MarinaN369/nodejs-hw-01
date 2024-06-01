@@ -10,6 +10,7 @@ const generateContacts = async (number) => {
     contacts = JSON.parse(data);
 
   } catch (err) {
+
     if (err.code !== 'ENOENT') {
       console.error('Error reading file:', err);
       return;
