@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "name": "Andre Emard",
+    "phone": "230-240-2336",
+    "email": "Julia.Hessel17@yahoo.com",
+    "job": "Corporate Metrics Technician"
+  },
+  {
+    "name": "Alice Weber",
+    "phone": "(659) 580-3577 x1197",
+    "email": "Meagan27@gmail.com",
+    "job": "Internal Creative Supervisor"
+  },
+  {
+    "name": "Cedric Spinka",
+    "phone": "(726) 514-7135 x50792",
+    "email": "Simone_Raynor64@yahoo.com",
+    "job": "Dynamic Web Technician"
+  },
+  {
+    "name": "Terrance Bernier",
+    "phone": "(808) 863-2104 x31759",
+    "email": "Deven18@gmail.com",
+    "job": "Dynamic Accountability Specialist"
+  },
+  {
+    "name": "Gerardo King",
+    "phone": "388.477.2046 x431",
+    "email": "Destiny_OReilly12@yahoo.com",
+    "job": "Senior Marketing Executive"
+  }
+]
